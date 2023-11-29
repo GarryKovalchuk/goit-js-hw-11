@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: rgb(165, 200, 218);
+  background-color: rgb(181, 212, 228);
 }
 
 .search-form {
@@ -10,7 +10,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
-  border-radius: 5px;
+  border-radius: 10px;
   text-align: center;
 }
 
@@ -20,7 +20,7 @@ input {
 }
 
 button {
-  border: 1px solid #848787;
+  border: 3px solid #8cc9e7;
   color: #000000;
   border-radius: 5px;
   padding: 10px 20px;
@@ -44,7 +44,7 @@ button {
   flex-direction: column;
   margin: 0 auto;
   overflow: hidden;
-  background: #fff;
+  background: #8cc9e7;
 }
 
 img {
@@ -55,7 +55,7 @@ img {
 .photo-card-info {
   display: flex;
   justify-content: space-around;
-  background: #fff;
+  background: #8cc9e7;
 }
 
 .info-item {
